@@ -1,5 +1,0 @@
-[requires]
-OpenSSL/1.1.1o@conan/stable
-
-[generators]
-cmake
